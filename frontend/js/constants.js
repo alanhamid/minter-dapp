@@ -3,7 +3,7 @@ const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Camel Jockey Club NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'It Is Not Your Typical NFT.';
+const welcome_p = 'It Is Not Your Typical NFT. <br> Hello';
 
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
