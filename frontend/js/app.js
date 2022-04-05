@@ -8,7 +8,10 @@ window.addEventListener("DOMContentLoaded", async () => {
 
   welcomeH1.innerText = welcome_h1;
   welcomeH2.innerText = welcome_h2;
-  welcomeP.innerHTML = welcome_p;
+  welcomeP1.innerHTML = welcome_p1;
+  welcomeP2.innerHTML = welcome_p2;
+  welcomeP3.innerHTML = welcome_p3;
+  welcomeP4.innerHTML = welcome_p4;
 
   if (window.ethereum) {
     window.web3 = new Web3(window.ethereum);
