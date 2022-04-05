@@ -3,7 +3,12 @@ const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Camel Jockey Club NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'Camel Jockey Club IS Not Your Typical NFT. <br> We are building a multilingual metaverse, for the CJC members, where like-minded people all across the world can come together and talk about their bets and investments in their native languages to anyone in the community. <br> Camel Jockey Club will be powered by Blu:  A proprietary tech of Texila, Inc. <br> 10% from sale of the NFTs in the secondary market will come back to Camel Jockey Club to maintain and promote the club and increase the value of the CJC NFTs for their owners.';
+const welcome_p1 = 'Camel Jockey Club IS Not Your Typical NFT.';
+const welcome_p2 = 'We are building a multilingual metaverse, for the CJC members, where like-minded people all across the world can come together and talk about their bets and investments in their native languages to anyone in the community.';
+const welcome_p3 = 'Camel Jockey Club will be powered by Blu:  A proprietary tech of Texila, Inc. ';
+const welcome_p4 = '<br> 10% from sale of the NFTs in the secondary market will come back to Camel Jockey Club to maintain and promote the club and increase the value of the CJC NFTs for their owners.';
+
+
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
