@@ -1,8 +1,8 @@
 const contractAddress = "0xa733D2a04BF090F8E89f4F323b7944DF4C58Df34"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Own the Camel Jockey Club NFTs <br> Become the Owners of the $Billion+ Company in the Making";
-const welcome_p = 'Each CJC NFT gives you 0.00001% Stock Option in Texila, Inc.  Currently valued at $15M.  <br>To learn more, please visit <a href = "https://www.texila.io> wwww.texila.io</a>"';
+const welcome_h1 = "Own the Camel Jockey Club NFTs <br> Become the Owners of the Billion+ Company in the Making";
+const welcome_p = 'Each CJC NFT gives you 0.00001 Stock Option in Texila, Inc.  Currently valued at 15M.  <br>To learn more, please visit <a href = "https://www.texila.io> wwww.texila.io</a>"';
 
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
