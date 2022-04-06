@@ -3,7 +3,7 @@ const chain = 'rinkeby'; // rinkeby or polygon
 
 const welcome_h1 = "Own a Camel Jockey Club NFT Become Owners of a $Billion+ Company in Making";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
+const welcome_p = 'Each CJC NFT has an 0.00001% Stok Option of Texila, Inc. Texila is currently valued at $15M.  To learn more, please visit. Follow step by step on the <a href="https://wwww.texila.io"  target="_blank" rel="noopener noreferrer">www.texila.io</a>';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
