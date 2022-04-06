@@ -32,7 +32,7 @@ window.addEventListener("DOMContentLoaded", async () => {
     pagination: false,
     autoplay: true,
     direction: 'ttb',
-    height: "calc(50vh - 45px)",
+    height: "calc(150vh - 135px)",
     width: '15vw',
     autoHeight: true,
   });
