@@ -1,7 +1,7 @@
 const contractAddress = "0xa733D2a04BF090F8E89f4F323b7944DF4C58Df34"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Own the Camel Jockey Club NFTs </n>Become the Owners of the $Billion+ Company in the Making";
+const welcome_h1 = "Own the Camel Jockey Club NFTs and Become the Owners of the $Billion+ Company in the Making";
 const welcome_p = 'It Is Not Your Typical NFT. <br> We are building a multilingual metaverse, for the CJC members, where like-minded people from all across the world can come together and talk about their bets and investments in their native languages to anyone in the community.';
 
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
